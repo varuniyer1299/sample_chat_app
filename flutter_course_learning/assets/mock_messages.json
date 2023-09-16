@@ -1,0 +1,53 @@
+[
+  {
+    "createdAt":1694851393,
+    "id":"12345",
+    "text": "Hi, this is the first message",
+    "author": {
+      "userName": "Varun"
+    }
+  },
+  {
+    "createdAt":1694851394,
+    "id":"12346",
+    "text": "Hi, this is the first message response",
+    "imageUrl": "https://cdn.photographylife.com/wp-content/uploads/2014/09/Nikon-D750-Image-Samples-2.jpg",
+    "author": {
+      "userName": "Varsha"
+    }
+  },
+  {
+    "createdAt":1694851395,
+    "id":"12347",
+    "text": "Hi, this is the second message",
+    "imageUrl": "https://cdn.photographylife.com/wp-content/uploads/2014/09/Nikon-D750-Image-Samples-2.jpg",
+    "author": {
+      "userName": "Varun"
+    }
+  },
+  {
+    "createdAt":1694851396,
+    "id":"12348",
+    "text": "Hi, this is the third message",
+    "author": {
+      "userName": "Varun"
+    }
+  },
+  {
+    "createdAt":1694851397,
+    "id":"12349",
+    "text": "Hi, this is the second message response",
+    "imageUrl": "https://cdn.photographylife.com/wp-content/uploads/2014/09/Nikon-D750-Image-Samples-2.jpg",
+    "author": {
+      "userName": "Varsha"
+    }
+  },
+  {
+    "createdAt":1694851398,
+    "id":"12350",
+    "text": "Hi, this is the third message response",
+    "author": {
+      "userName": "Varsha"
+    }
+  }
+]
